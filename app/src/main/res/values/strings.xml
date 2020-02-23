@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mahasiswa</string>
+    <string name="create_data">Create Data</string>
+    <string name="nim">Nim</string>
+    <string name="nama">Nama</string>
+    <string name="prodi">Prodi</string>
+    <string name="mata_kuliah">Mata Kuliah</string>
+    <string name="nilai_awal">Nilai Awal</string>
+    <string name="nilai_sp">Nilai SP</string>
+    <string name="create">Create</string>
+    <string name="update_data">Update Data</string>
+    <string name="update">Update</string>
+</resources>

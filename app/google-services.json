@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "446480242709",
+    "firebase_url": "https://mahasiswa-app-ff715.firebaseio.com",
+    "project_id": "mahasiswa-app-ff715",
+    "storage_bucket": "mahasiswa-app-ff715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446480242709:android:d477b3ec1913f66024d61c",
+        "android_client_info": {
+          "package_name": "com.q.mahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446480242709-th55gluk1eomq1qmk1276328dibt0451.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUNmS8Uzu6KHLCdDYHWtkX2Le41JDewjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446480242709-th55gluk1eomq1qmk1276328dibt0451.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
